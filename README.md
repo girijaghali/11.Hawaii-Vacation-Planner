@@ -81,7 +81,7 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
 
   * Plot the results as a histogram with `bins=12`.
 
-  <center><img src='images/temp_hist.png' height="400px" /></center>
+  <center><img src='plots/temp_hist.png' height="400px" /></center>
 
 ### Temperature Analysis
 
